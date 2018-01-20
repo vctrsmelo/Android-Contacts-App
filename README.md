@@ -21,7 +21,8 @@ A simple contact schedule app for Android.
 * Singleton.
 * Observer.
 
-I tried to separate the responsibilities, to decrease coupling, using:
+<b>I tried to separate the responsibilities, to decrease coupling, using:</b>
+
 * ContactsManager class to manage the model data.
 * MainActivity being responsible to present the data, observing ContactsManager class. 
 
