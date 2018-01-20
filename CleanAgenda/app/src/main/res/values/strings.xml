@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Clean Agenda</string>
+    <string name="title_activity_new_contact">NewContactActivity</string>
+    <string name="new_contact_label">New Contact Information</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="name_hint">Alan Turing</string>
+    <string name="phone_hint">+55 51 9998-8765</string>
+    <string name="OK">OK</string>
+    <string name="CANCEL">CANCEL</string>
+</resources>
