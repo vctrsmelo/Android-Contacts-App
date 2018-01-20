@@ -1,6 +1,9 @@
 # Clean Agenda
 A simple contact schedule app for Android.
 
+![App home screenshot](https://raw.githubusercontent.com/vicmelo/Android-Contacts-App/master/img1.png)
+![App add contact screenshot](https://raw.githubusercontent.com/vicmelo/Android-Contacts-App/master/img2.png)
+
 <b>This app is a project to review and study different android development concepts, such as:</b>
 
 * Activity.
