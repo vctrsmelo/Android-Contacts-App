@@ -2,8 +2,8 @@
 A simple contact schedule app for Android.
 
 <p align="center">
-  <img src="img1.png" width="350"/>
-  <img src="img2.png" width="350"/>
+  <img src="img1.png" width="300"/>
+  <img src="img2.png" width="300"/>
 </p>
 
 <b>This app is a project to review and study different android development concepts, such as:</b>
