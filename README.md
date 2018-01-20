@@ -22,4 +22,4 @@ I tried to separate the responsabilities, using:
 
 ContactsManager is also responsible for data persistence. I could have develop another class for that, but as it is a simple project, I've prefered to keep it this way.
 
-About the data input formatting, this could be done with a regular expression, but I would need to verify if the phone pattern for the countries I would like to localize. As it was not the focus of this project, I did not worried about it.
+About the data input formatting, this could be done with a regular expression, but I would need to verify the phone pattern formatting for the countries I would like to localize the app. As it was not the focus of this project, I did not worried about it.
