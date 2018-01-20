@@ -6,7 +6,7 @@ A simple contact schedule app for Android.
   <img src="img2.png" width="300"/>
 </p>
 
-<b>This app is a project to review and study different android development concepts, such as:</b>
+<b>This app is a personal project to review and study different android development concepts, such as:</b>
 
 * Activity.
 * AlertDialog.
