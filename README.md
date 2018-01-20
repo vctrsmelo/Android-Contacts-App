@@ -1,4 +1,4 @@
-# ContactsAndroid
+# Clean Agenda
 A simple contact schedule app for Android.
 
 <b>This app is a project to review and study different android development concepts, such as:</b>
